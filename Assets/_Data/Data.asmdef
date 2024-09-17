@@ -1,0 +1,25 @@
+{
+    "name": "Data",
+    "rootNamespace": "",
+    "references": [
+        "QFSW.QC.Extras",
+        "Unity.InputSystem",
+        "Unity.AI.Navigation",
+        "PhotonUnityNetworking",
+        "PhotonRealtime"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
